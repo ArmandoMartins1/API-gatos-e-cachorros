@@ -1,0 +1,16 @@
+{
+    "message": {
+        "bad request": ["https://http.cat/images/400.jpg"], 
+        "use proxy": ["https://http.cat/images/305.jpg"],
+        "found": ["https://http.cat/images/302.jpg"],
+        "no content": ["https://http.cat/images/204.jpg"],
+        "accepted": ["https://http.cat/images/202.jpg"],
+        "created": ["https://http.cat/images/201.jpg"],
+        "ok": ["https://http.cat/images/200.jpg"],
+        "processing": ["https://http.cat/images/102.jpg"],
+        "switching Protocols": ["https://http.cat/images/101.jpg"],
+        "network connect timeout error": ["https://http.cat/images/599.jpg"]
+    
+    },
+    "status": "success"
+}
