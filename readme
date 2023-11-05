@@ -1,0 +1,6 @@
+Os dois links das duas API utilizadas. https://http.cat/  ,https://dog.ceo/dog-api/
+Escolhemos elas, pq foi o tema do trabalho passado que foi sobre pet shop.
+Assim que acessar o código, pelo cmd será impresso uma foto de um cachorro.
+pelo https na porta 3000, a senhora vai receber uma mensagem e usando o /cachorro, vai para a api de cachorro e usando o /gato vai para a api de gato
+a api de cachorro mostra a raça e a imagem do respectivo cachorro, não preenchemos todas as lacunas, mas deu-se para ter uma ideia.
+a api dos gatos, era para ser igual a dos cachorros, mas achamos engraçado e colocamos imagens de gatinhos referentes a requisições http
